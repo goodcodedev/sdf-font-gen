@@ -1,0 +1,6 @@
+node_modules
+/input/*
+!/input/input_folder.md
+/output/*
+!/output/output_folder.md
+.DS_Store

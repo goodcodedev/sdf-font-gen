@@ -1,0 +1,11 @@
+{
+  "name": "font-gen",
+  "version": "1.0.0",
+  "description": "Font gen using msdf-bmfont",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "msdf-bmfont": "^1.0.1",
+    "convert-bmfont": "^1.0.2"
+  }
+}
